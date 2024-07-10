@@ -199,6 +199,112 @@ margin: 32px;
 }
 
 /* vai section end */
+/* language icons */
+.language-icons{
+margin-top: 111px;
+margin-bottom: 45px;
+}
+.language-icons-container-text p{
+margin: 24px 0 48px 0;
+}
+.language-icons-container-text{
+    width: 852px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.language-icon-text{
+margin-left: 25px;
+}
+.margin-t-b{
+    margin: 24px 0;
+}
+.language-icon-text h4{
+    font-size: 24px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+    margin-bottom: 8px;
+
+}
+.language-icon-text a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+    display: inline-block;
+}
+.language-icon-container{
+ display: flex;
+
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+padding: 40px;
+/* margin-left: 25px; */
+background: rgb(255, 255, 255);
+}
+/* language icons */
+/* handseek section start */
+.handsek-section{
+ background-image:url(../images/handshake.jpg); 
+ border-radius:16px ;
+ -webkit-border-radius:16px ;
+ -moz-border-radius:16px ;
+ -ms-border-radius:16px ;
+ -o-border-radius:16px ;
+ height: 313px;
+ margin-bottom:80px ;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ border-radius: 16px;
+background-color: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+background-blend-mode: overlay;
+}
+.handsek-container h3{
+color: rgb(255, 255, 255);
+}
+.handsek-container p{
+color: rgba(255, 255, 255,.7);
+}
+.handsek-container p{
+ margin: 16px 0 24px 0;
+
+}
+.write-text{
+    width: 750px;
+    display: flex;
+    justify-content: space-between;
+}
+input[type="text"]{
+    width: 600px;
+    height: 57px;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+padding: 19px 20px;
+background: rgb(255, 255, 255);
+color: rgba(13, 19, 33,0.4);
+font-weight: 400;
+}
+.write-text button{
+    height:57px ;
+    font-size:20px ;
+    font-weight: 600;
+    color: rgb(13, 19, 33);
+    padding: 17px 20px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+/* handseek section  end*/
 /* footer start */
 footer{
     
